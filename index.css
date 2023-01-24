@@ -1,0 +1,42 @@
+body{
+    width: 100%;
+    background-image: url('image/bg.png');
+    background-size: cover;
+    margin-left: 60px;
+    margin-top: 60px;
+    text-align: center;
+}
+.control {
+    display: block;
+    width: 350px;
+    height: 350px;
+    box-shadow: 3px 3px #000;
+    background-color: rgb(175, 214, 236);
+    border-radius: 0.55rem;
+    font-size: large;
+  }
+  input{
+    margin-bottom: 30px;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px;
+  }
+  .login{
+    background-color: rgb(237, 224, 77);
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  h2{
+    padding-top: 10px;
+}
+.forgot{
+  text-decoration: none;
+
+}
+.create{
+  margin-top: 20px;
+  width: 200px;
+  background-color: rgb(42, 226, 42);
+  font-size: large;
+}
